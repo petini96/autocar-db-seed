@@ -1,0 +1,9 @@
+- **Compra:** data corrente(timestamp)
+- **Fornecedor:** NIVI Fornecimento - LTDA
+- **Nota Fiscal:** 111111111
+	- **1º Produto/Quantidade:** Alarme/30x 
+	- **2º Produto/Quantidade:** Capa Retrovisor/28x 
+	- **3º Produto/Quantidade:** Lâmpada/10x 
+- **Localização:** pratileira A
+- **Depósito:** Depósito Mister
+- **Valor Total:** R$4349,90
